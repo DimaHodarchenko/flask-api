@@ -3,3 +3,4 @@ class Config:
         "your link to the database"  
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    JWT_SECRET_KEY = 'nhjajkvjkxnbjhsakjnfdsahjbfjhbashjbda' 
